@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "github-project"]
+	url = https://github.com/PaxtonK16/github-project
+	fetch = +refs/heads/*:refs/remotes/github-project/*
